@@ -1,6 +1,6 @@
 I like to eat: <burger>
 I like to hear: <chillout>
-My hobbies are <coding>.
+My hobbies are <coding , just kidding>.
 
 I would like to travel to <Norway>.
 
